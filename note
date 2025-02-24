@@ -1,0 +1,7 @@
+express : pour créer un serveur avec node js
+nodemon :  relance automatique du serveur à chaque fois qu'on applique des modifs
+
+
+correctection orthographe
+Installez la bibliothèque hunspell-spellchecker et le dictionnaire français à l'aide de npm :
+npm install hunspell-spellchecker dictionary-fr
